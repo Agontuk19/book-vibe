@@ -1,0 +1,146 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "image": "https://i.ibb.co.com/khHN7Pk/9780143454212.jpg",
+        "review": "'The Great Gatsby' by F. Scott Fitzgerald paints a striking portrait of ambition and illusion in 1920s America. Through the eyes of Nick Carraway, readers witness the lavish lifestyle of Jay Gatsby, a man driven by love, longing, and the promise of reinvention. Beneath the glittering parties and opulent mansions lies a sharp critique of wealth, class division, and moral decay. Fitzgerald’s lyrical prose captures both the beauty and emptiness of the American Dream, revealing how desire can distort reality. The novel’s emotional depth and symbolic richness make it a powerful reflection on love, loss, and the cost of chasing unattainable dreams.",
+        "totalPages": 192,
+        "rating": 4.5,
+        "category": "Classic",
+        "tags": [
+            "Fiction",
+            "Romance"
+        ],
+        "publisher": "Scribner",
+        "yearOfPublishing": 1925
+    },
+    {
+        "bookId": 2,
+        "bookName": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "image": "https://i.ibb.co.com/0cv102J/To-Kill-a-Mockingbird.webp",
+        "review": "'To Kill a Mockingbird' by Harper Lee is a deeply moving novel that explores justice, morality, and empathy in the American South. Told through the innocent perspective of Scout Finch, the story centers on her father Atticus, a lawyer who defends a wrongly accused man in a racially divided society. The narrative balances warmth and humor with serious social commentary, highlighting the impact of prejudice and the importance of standing up for what is right. Lee’s storytelling is heartfelt and accessible, making complex issues understandable and emotionally resonant. The novel remains a timeless reminder of compassion, courage, and human dignity.",
+        "totalPages": 281,
+        "rating": 4.8,
+        "category": "Fiction",
+        "tags": [
+            "Drama",
+            "Social Justice"
+        ],
+        "publisher": "J.B. Lippincott & Co.",
+        "yearOfPublishing": 1960
+    },
+    {
+        "bookId": 3,
+        "bookName": "1984",
+        "author": "George Orwell",
+        "image": "https://i.ibb.co.com/MprDyVt/51-BIA4rrae-L-AC-UF1000-1000-QL80.jpg",
+        "review": "'1984' by George Orwell presents a chilling vision of a totalitarian future where individuality and freedom are erased. The story follows Winston Smith, a man living under constant surveillance by the all-powerful Party and its leader, Big Brother. As Winston begins to question authority, the novel exposes the dangers of propaganda, censorship, and absolute control. Orwell’s stark and unsettling prose creates an atmosphere of fear and oppression, forcing readers to confront the consequences of unchecked power. Both disturbing and thought-provoking, '1984' remains a powerful warning about the fragility of truth and personal freedom.",
+        "totalPages": 328,
+        "rating": 4.6,
+        "category": "Fiction",
+        "tags": [
+            "Dystopian",
+            "Political"
+        ],
+        "publisher": "Secker & Warburg",
+        "yearOfPublishing": 1949
+    },
+    {
+        "bookId": 4,
+        "bookName": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "image": "https://i.ibb.co.com/tYSWRfG/catcherrye-edited-1-800x.png",
+        "review": "'The Catcher in the Rye' by J.D. Salinger explores teenage alienation and the struggle to find identity. Narrated by the cynical yet vulnerable Holden Caulfield, the novel captures a few days of his life as he wanders through New York City after being expelled from school. Holden’s sharp observations and emotional honesty reveal his fear of growing up and his desire to protect innocence. Salinger’s conversational writing style makes the story feel intimate and authentic. The novel resonates with readers through its raw portrayal of confusion, loneliness, and the search for meaning in a complex world.",
+        "totalPages": 224,
+        "rating": 4.3,
+        "category": "Fiction",
+        "tags": [
+            "Young Adult",
+            "Identity"
+        ],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 1951
+    },
+    {
+        "bookId": 5,
+        "bookName": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "image": "https://i.ibb.co.com/YdQDMpn/81me-ud-V63-L-AC-UF1000-1000-QL80.jpg",
+        "review": "'Pride and Prejudice' by Jane Austen is a witty and insightful exploration of love, class, and personal growth. Centered on the intelligent and independent Elizabeth Bennet, the novel follows her evolving relationship with the reserved Mr. Darcy. Through sharp dialogue and social observation, Austen critiques societal expectations and the misunderstandings caused by pride and first impressions. The story blends romance with humor, offering memorable characters and timeless lessons. Austen’s elegant prose and keen insight into human nature make this novel a lasting classic that continues to charm readers across generations.",
+        "totalPages": 279,
+        "rating": 4.7,
+        "category": "Classic",
+        "tags": [
+            "Romance",
+            "Satire"
+        ],
+        "publisher": "T. Egerton, Whitehall",
+        "yearOfPublishing": 1813
+    },
+    {
+        "bookId": 6,
+        "bookName": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "image": "https://i.ibb.co.com/xS8YvxL/81m-CE-uclx-L-UF1000-1000-QL80.jpg",
+        "review": "'The Hobbit' by J.R.R. Tolkien is a delightful fantasy adventure filled with courage, friendship, and discovery. The story follows Bilbo Baggins, a comfort-loving hobbit who is unexpectedly drawn into a quest to reclaim a lost treasure guarded by a fearsome dragon. Along the journey, Bilbo encounters magical creatures, dangerous enemies, and moments that test his bravery. Tolkien’s rich world-building and imaginative storytelling create a sense of wonder and excitement. Both lighthearted and meaningful, the novel serves as a timeless introduction to Middle-earth and the power of personal transformation.",
+        "totalPages": 310,
+        "rating": 4.9,
+        "category": "Fantasy",
+        "tags": [
+            "Adventure",
+            "Epic"
+        ],
+        "publisher": "Allen & Unwin",
+        "yearOfPublishing": 1937
+    },
+    {
+        "bookId": 7,
+        "bookName": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "image": "https://i.ibb.co.com/989qMRW/42844155.jpg",
+        "review": "'Harry Potter and the Sorcerer’s Stone' by J.K. Rowling introduces readers to a magical world of wonder and adventure. The story follows Harry, an orphan who discovers on his eleventh birthday that he is a wizard destined for greatness. As he begins his journey at Hogwarts School of Witchcraft and Wizardry, Harry forms friendships, faces challenges, and uncovers hidden truths about his past. Rowling’s imaginative storytelling and relatable characters create an engaging and immersive experience. Filled with magic, mystery, and heart, the novel captures the excitement of discovering one’s true identity.",
+        "totalPages": 309,
+        "rating": 4.8,
+        "category": "Fantasy",
+        "tags": [
+            "Magic",
+            "Young Adult"
+        ],
+        "publisher": "Bloomsbury",
+        "yearOfPublishing": 1997
+    },
+    {
+        "bookId": 8,
+        "bookName": "The Alchemist",
+        "author": "Paulo Coelho",
+        "image": "https://i.ibb.co.com/zS9jsdK/18144590.jpg",
+        "review": "'The Alchemist' by Paulo Coelho is an inspiring tale about dreams, destiny, and self-discovery. The novel follows Santiago, a young shepherd who embarks on a journey in search of a hidden treasure. Along the way, he encounters mentors and challenges that teach him about listening to his heart and trusting the path of life. Coelho’s simple yet poetic language conveys profound philosophical ideas with clarity and warmth. The story encourages readers to pursue their personal legends and find meaning in their experiences, making it a reflective and uplifting read.",
+        "totalPages": 177,
+        "rating": 4.6,
+        "category": "Fiction",
+        "tags": [
+            "Philosophical",
+            "Adventure"
+        ],
+        "publisher": "HarperCollins",
+        "yearOfPublishing": 1988
+    },
+    {
+        "bookId": 9,
+        "bookName": "The Girl on the Train",
+        "author": "Paula Hawkins",
+        "image": "https://i.ibb.co.com/P6hfCmJ/Whats-App-Image-2024-05-22-at-11-21-25-2e21ae46.jpg",
+        "review": "'The Girl on the Train' by Paula Hawkins is a gripping psychological thriller filled with suspense and unreliable perspectives. The story follows Rachel, a troubled woman who becomes entangled in a mystery after witnessing something shocking during her daily commute. As secrets unravel, the narrative shifts between characters, revealing hidden motives and emotional turmoil. Hawkins builds tension through sharp pacing and complex character psychology. Dark and unsettling, the novel keeps readers guessing until the end, offering a compelling exploration of obsession, memory, and the fragile nature of truth.",
+        "totalPages": 316,
+        "rating": 4.2,
+        "category": "Mystery",
+        "tags": [
+            "Suspense",
+            "Psychological"
+        ],
+        "publisher": "Riverhead Books",
+        "yearOfPublishing": 2015
+    }
+]
