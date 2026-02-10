@@ -1,11 +1,11 @@
 import React from 'react';
-import { createBrowserRouter } from "react-router";
+import { HashRouter } from "react-router";
 import Root from '../pages/Root/Root';
 import ErrorPage from '../pages/ErrorPage/ErrorPage';
 import Home from '../pages/Home/Home';
 import BookDetails from '../pages/BookDetails/BookDetails';
 
-const router = createBrowserRouter([
+const router = HashRouter([
   {
     path: "/",
     Component: Root,
