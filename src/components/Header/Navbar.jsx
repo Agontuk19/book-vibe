@@ -1,10 +1,10 @@
 import React from 'react';
+import { NavLink } from 'react-router';
 
 const Navbar = () => {
     const links = <>
-        <button><a href='/'><li className='lg:m-2 hover:border-2 rounded-lg px-3 py-1.5 border-[#09637E]'>Home</li></a></button>
-        <button><li className='lg:m-2 hover:border-2 rounded-lg px-3 py-1.5 border-[#09637E]'>Listed Books</li></button>
-        <button><li className='lg:m-2 hover:border-2 rounded-lg px-3 py-1.5 border-[#09637E]'>Pages to Read</li></button>
+        <NavLink to={'/'}><button><li className='lg:m-2 hover:border-2 rounded-lg px-3 py-1.5 border-[#09637E]'>Home</li></button></NavLink>
+        <NavLink to={'/readList'}><button><li className='lg:m-2 hover:border-2 rounded-lg px-3 py-1.5 border-[#09637E]'>Listed Books</li></button></NavLink>
     </>
     return (
         <div class="navbar shadow-sm px-3 md:px-10 lg:px-20 xl:px-30 bg-[#EFEEEA] text-base-content">
